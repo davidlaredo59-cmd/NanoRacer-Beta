@@ -1,5 +1,5 @@
 {
-  "version": "1.5.7",
-  "enlace": "https://github.com/davidlaredo59-cmd/NanoRacer-Beta/releases/tag/v1.5.7",
-  "novedades": "Se adapta a cualquier monitor y escala de Windows, y nuevo aspecto azul en todas las ventanas."
+  "version": "1.5.8",
+  "enlace": "https://github.com/davidlaredo59-cmd/NanoRacer-Beta/releases/tag/v1.5.8",
+  "novedades": "Nuevo spotter por voz, overlay Telemetría, banderas de piloto como icono y overlays más fluidos."
 }

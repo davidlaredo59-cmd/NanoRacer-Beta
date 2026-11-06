@@ -1,5 +1,4 @@
 {
-  "version": "1.5.8",
-  "enlace": "https://github.com/davidlaredo59-cmd/NanoRacer-Beta/releases/tag/v1.5.8",
-  "novedades": "Nuevo spotter por voz, overlay Telemetría, banderas de piloto como icono y overlays más fluidos."
-}
+"version": "1.5.9",
+"enlace": "https://github.com/davidlaredo59-cmd/NanoRacer-Beta/releases/tag/v1.5.9",
+"novedades": "Errores corregidos en Relative, Leaderboard, Combustible y posiciones. El spotter por voz puede tener errores: se está trabajando en ello."}

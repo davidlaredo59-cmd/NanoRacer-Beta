@@ -1,4 +1,5 @@
 {
-"version": "1.5.9",
-"enlace": "https://github.com/davidlaredo59-cmd/NanoRacer-Beta/releases/tag/v1.5.9",
-"novedades": "Errores corregidos en Relative, Leaderboard, Combustible y posiciones. El spotter por voz puede tener errores: se está trabajando en ello."}
+"version": "1.6.0",
+"enlace": "https://github.com/davidlaredo59-cmd/NanoRacer-Beta/releases/tag/v1.6.0",
+"novedades": "Combustible: ventana de parada, aviso de empieza a ahorrar y consumos por vuelta. Botón para apoyar NanoRacer."
+}

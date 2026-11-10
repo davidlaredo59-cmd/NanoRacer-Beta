@@ -70,9 +70,6 @@ Escríbenos en nuestro **Discord**: https://discord.gg/n96cFhPW6Q
 
 Cuéntanos qué ha pasado y, si puedes, adjunta una captura.
 
-## Precio
-NanoRacer es gratuito.
-
 ## Aviso
 NanoRacer es un proyecto independiente. **No está afiliado, patrocinado ni aprobado por iRacing.com Motorsport Simulations, LLC**, ni por ninguna otra marca o programa que se mencione. iRacing y el resto de nombres y marcas pertenecen a sus dueños y se citan solo para indicar con qué funciona la app.
 

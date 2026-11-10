@@ -1,5 +1,5 @@
 {
-"version": "1.6.0",
-"enlace": "https://github.com/davidlaredo59-cmd/NanoRacer-Beta/releases/tag/v1.6.0",
-"novedades": "Combustible: ventana de parada, aviso de empieza a ahorrar y consumos por vuelta. Botón para apoyar NanoRacer."
+"version": "1.6.1",
+"enlace": "https://github.com/davidlaredo59-cmd/NanoRacer-Beta/releases/tag/v1.6.1",
+"novedades": "Sin contraseña. Más datos en las barras (frenos, TC, ABS, temperaturas, clima), nombres y banderas nuevos, Telemetría rediseñada y más casillas en Combustible."
 }

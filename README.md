@@ -1,7 +1,7 @@
 # NanoRacer-Beta
 Descargas de NanoRacer Beta.
 
-**Web de NanoRacer:** [https://davidlaredo59-cmd.github.io/NanoRacer-Beta/](https://davidlaredo59-cmd.github.io/NanoRacer-Beta/) · guía completa de cada apartado, novedades y descarga.
+**Web de NanoRacer:** [https://nanoracersessioncontrol.com/](https://nanoracersessioncontrol.com/) · guía completa de cada apartado, novedades y descarga.
 
 **NanoRacer** es una aplicación para Windows que acompaña tus sesiones de sim racing en iRacing: abre tus programas en orden con un clic y muestra overlays en pantalla mientras corres.
 
@@ -14,7 +14,7 @@ NanoRacer está en fase **beta**: puede tener errores y cambiar entre versiones.
 
 **Ya no hace falta contraseña ni código de activación:** descarga el instalador y úsalo.
 
-- **Web con la guía completa:** [https://davidlaredo59-cmd.github.io/NanoRacer-Beta/](https://davidlaredo59-cmd.github.io/NanoRacer-Beta/)
+- **Web con la guía completa:** [https://nanoracersessioncontrol.com/](https://nanoracersessioncontrol.com/)
 - **Descargar:** sección [Releases](https://github.com/davidlaredo59-cmd/NanoRacer-Beta/releases/latest) → `NanoRacer_Beta_Setup.exe`.
 - `version.json` lo lee NanoRacer Beta al abrirse para avisar de versiones nuevas.
 
